@@ -7,3 +7,10 @@
 .carousel-item{
     padding: 20px 40x;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgreen;
+}
+.Text{
+    text-align: center;
+}
